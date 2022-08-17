@@ -2,7 +2,7 @@
 
 <h2 align="center">"We believe in doing the impossible."</h2>
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/100597998/185107094-c7e81053-3aa3-409a-aba3-c38762f6b370.png"/>
+    <img src="https://cdn.discordapp.com/attachments/851069779355369482/1009517256839016488/cypher-01.png"/>
 </p>
 
 <br>
